@@ -1,6 +1,6 @@
 push!(LOAD_PATH,"../src/")
 
-using Documenter, Landslides
+using Documenter, ArtGallery
 
 makedocs(
     sitename = "ArtGallery.jl",

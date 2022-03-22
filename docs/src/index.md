@@ -2,7 +2,7 @@
 
 This is a library written in Julia Language for displaying a few photos in the `REPL` (in fact it doesn't do much).
 
-## ⚙ Installation
+## Installation
 
 ```julia
 using Pkg
@@ -17,7 +17,7 @@ julia> ]
 @1.7 pkg> add ArtGallery
 ```
 
-## 📕 User Guide
+## User Guide
 
 ArtGallery.jl has a total of six pictures, title as follows：
 
