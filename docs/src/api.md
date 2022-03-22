@@ -1,0 +1,5 @@
+# API
+
+```@docs
+ArtGallery.album
+```

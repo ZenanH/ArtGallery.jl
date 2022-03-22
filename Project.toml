@@ -1,0 +1,8 @@
+name = "ArtGallery"
+uuid = "88c30151-f523-4140-98ec-337064e805aa"
+authors = ["Zenan Huo <zenan.huo@outlook.com>"]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Term = "22787eb5-b846-44ae-b979-8e399b8463ab"
