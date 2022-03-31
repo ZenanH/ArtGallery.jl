@@ -27,9 +27,12 @@ ArtGallery.jl has a total of six pictures, title as follows：
 - [ ] `victory`
 - [ ] `monster`
 - [ ] `computer`
+- [ ] `kitty`
 
 ```julia
 using ArtGallery
 
 album("dragon")
 ```
+
+![figure1](./readme_figure.png)

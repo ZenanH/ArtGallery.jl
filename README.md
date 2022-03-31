@@ -32,6 +32,7 @@ ArtGallery.jl has a total of six pictures, title as follows：
 - [x] `victory`
 - [x] `monster`
 - [x] `computer`
+- [x] `kitty`
 
 ```julia
 using ArtGallery
@@ -39,3 +40,4 @@ using ArtGallery
 album("dragon")
 ```
 
+![figure](./assets/readme_figure.png)
