@@ -5,4 +5,5 @@ struct Items
     s4::String
     s5::String
     s6::String
+    s7::String
 end

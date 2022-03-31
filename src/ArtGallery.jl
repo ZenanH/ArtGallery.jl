@@ -18,6 +18,7 @@ id can be one of the following:
 - "victory"
 - "monster"
 - "computer"
+- "kitty"
 """
 function album(id::String="computer")
     style = gallery()
@@ -33,6 +34,8 @@ function album(id::String="computer")
         return highlight(style.s5)
     elseif id == "computer"
         return highlight(style.s6)
+    elseif id == "kitty"
+        return highlight(style.s7)
     else
         return highlight(style.s6)
     end
